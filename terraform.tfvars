@@ -1,12 +1,8 @@
-AWS_REGION  = "us-east-1"
-environment = "dev"
-Application = "Polaris"
-<<<<<<< HEAD
-aplication  = fsdfs
-=======
-application = fsdfds
->>>>>>> 782203a (added)
-
+AWS_REGION                              = "us-east-1"
+environment                             = "dev"
+Application                             = "Polaris"
+application                             = fsdfds
+lunara                                  = master
 management_vpc_cidr                     = "10.1.0.0/16"
 management_enable_dns_support           = true
 management_enable_dns_hostnames         = true
