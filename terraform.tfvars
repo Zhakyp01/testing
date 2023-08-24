@@ -1,7 +1,7 @@
 AWS_REGION                                               = "us-east-1"
 environment                                              = "dev"
 Application                                              = "Polaris"
-
+aplication                                                 = fsdfs
 
 management_vpc_cidr                                      = "10.1.0.0/16"
 management_enable_dns_support                            = true
